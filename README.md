@@ -402,7 +402,15 @@ kubectl create secret generic pneumoscan-secrets \
 | `MODEL_PATH` | ai-service | Ruta del modelo `.h5` dentro del contenedor |
 
 ---
-
+### Pods
+![WhatsApp Image 2026-03-27 at 8 42 55 PM](https://github.com/user-attachments/assets/1f21b9e3-1b13-43d7-b858-501efb3776c2)
+---
+### Nodos
+![Nodos](https://github.com/user-attachments/assets/53c9ac3f-cd88-4fbc-ab02-ff3a538a0ece)
+---
+### Replicas
+![Replicas](https://github.com/user-attachments/assets/c9696684-6015-4f16-8265-6ee8d2582b96)
+---
 <div align="center">
 
 **Aviso médico**
